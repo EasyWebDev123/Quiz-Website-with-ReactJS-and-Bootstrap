@@ -1,8 +1,8 @@
-import Isreal from './components/Isreal'
+import Background from './Background'
 const App = () => {
   return (
     <>
-      <Isreal />
+      <Background />
     </>
   )
 }
