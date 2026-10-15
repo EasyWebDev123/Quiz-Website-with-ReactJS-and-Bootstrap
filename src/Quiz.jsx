@@ -1,7 +1,7 @@
 const Quiz = () => {
   return (
     <>
-    <div>Quiz</div>
+    <div>God is love</div>
     </>
   )
 }
