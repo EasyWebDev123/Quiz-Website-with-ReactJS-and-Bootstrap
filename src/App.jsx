@@ -1,9 +1,8 @@
-import Quiz from './Quiz'
-
+import Isreal from './components/Isreal'
 const App = () => {
   return (
     <>
-      <Quiz />
+      <Isreal />
     </>
   )
 }
