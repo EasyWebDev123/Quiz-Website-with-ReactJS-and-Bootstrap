@@ -1,8 +1,8 @@
-import Background from './Background'
+import Quiz from "./Components/Quiz/Quiz"
 const App = () => {
   return (
     <>
-      <Background />
+      <Quiz />
     </>
   )
 }
